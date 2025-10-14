@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Research Blog Post"
-date: 2025-10-14 18:30:00 -0400
+date: 2025-10-14 14:30:00 -0400
 categories: research introduction
 author: Sravan Elineni
 ---
